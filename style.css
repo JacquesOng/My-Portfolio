@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+}
+
 body {
   font-family:Gemunu Libre;
   background-color: rgb(223, 217, 217);
@@ -50,4 +54,26 @@ h1 {
 .pic-1 {
   background-color: rgb(223, 217, 217);
   float: right;
+}
+
+.Email {
+  background-color: rgb(118, 148, 192);
+  text-align: right;
+  padding-top: 40px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  
+}
+
+.mail-icon {
+    width: 50px;
+    margin: 20px 0px 0px 0px;
+}
+
+.box {
+  background-color: rgb(118, 148, 192);
+  font-size: 30px;
+  height: 65px;
+  width: 60%;
 }
